@@ -6,3 +6,4 @@ langchain-community
 langchain-ollama
 langchain-chroma
 chromadb
+git+https://github.com/langchain-ai/langchain-ollama.git
